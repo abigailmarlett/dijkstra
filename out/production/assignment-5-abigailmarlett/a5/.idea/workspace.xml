@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4438a3b6-0c28-4888-b2ff-63ce4da37ea4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/NodeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/GraphImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/GraphImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/NodeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/NodeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-5-abigailmarlett/a5/Tester.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20ykXtATnVzAEDQs4YWivRcj2cg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a5.Main" />
+      <module name="assignment-5-abigailmarlett" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4438a3b6-0c28-4888-b2ff-63ce4da37ea4" name="Changes" comment="" />
+      <created>1637024260200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637024260200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment_5_abigailmarlett$Main.ic" NAME="Main Coverage Results" MODIFIED="1638372711279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>a5.*</FILTER>
+    </SUITE>
+  </component>
+</project>
